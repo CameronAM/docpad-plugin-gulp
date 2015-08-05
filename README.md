@@ -14,7 +14,7 @@ $ docpad install gulp
 
 By default, the plugin will run the `default` tasks associated with gulp during
 the [writeAfter](http://docpad.org/docs/events#writeafter) event with DocPad.
-This is equivilant to adding the following configuration to your [DocPad
+This is equivalent to adding the following configuration to your [DocPad
 configuration file](http://docpad.org/docs/config):
 
 ```coffeescript
